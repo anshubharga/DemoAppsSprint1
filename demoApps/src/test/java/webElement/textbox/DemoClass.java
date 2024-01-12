@@ -6,6 +6,7 @@ public class DemoClass {
 		@Test
 		public void demoTest() {
 			System.out.println("Changes");
+			System.out.println("Changes MAde by TE2");
 		}
 	
 }
